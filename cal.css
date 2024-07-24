@@ -1,0 +1,221 @@
+/* body{
+    background: rgb(212, 211, 211);
+}
+input{
+    font-size: 30px;
+    width: 70px;
+    height: 60px;
+    margin: 5px;
+    border-radius: 10px;
+    box-shadow: 5px 5px 3px grey 5px 5px 3px white;
+    border: none;
+    box-shadow: 5px 5px 3px grey,-;
+    grey, 
+    background-color: white;
+}
+
+#answer{
+    width: 300px;
+    border-radius: 13px;
+}
+.calc{
+    background-color: rgb(200, 200, 200);
+    padding: 10px;
+    display: inline-block;
+    border-radius: 20px;
+} */
+.container{
+    width: 100%;
+    height: 100vh;
+     background: rgb(165, 160, 160);
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* 
+
+.seven{
+    border-bottom: 5px grey;
+    background-color: white;
+    width: 50px;
+    text-align: center;
+    border-radius: 5px;
+    margin: 6px;
+}
+
+.eight{
+     border-bottom: 5px grey;
+    background-color: white;
+    width: 50px;
+    text-align: center;
+    border-radius: 5px;
+    margin: 6px;
+}
+
+.nine{
+     border-bottom: 5px grey;
+    background-color: white;
+    width: 50px;
+    text-align: center;
+    border-radius: 5px;
+    margin: 6px;
+}
+
+.minus{.all{
+    width: 250px;
+    background-color: rgb(29, 28, 28);
+    border-radius: 5px;
+    margin-left: 150px;
+    margin-top: 50px;
+    border-bottom: 2px solid lightgray;
+}
+
+.input{
+    margin-top: 5px;
+    height: 40px;
+    border-radius: 5px;
+}
+.a{display: flex;
+    /* justify-content: space-between; */
+    /* margin: 10px; */
+}
+.b{
+display: flex;
+}
+.c{
+    display: flex;
+}
+.d{
+    display: flex;
+}
+     border-bottom: 5px grey;
+    background-color: white;
+    width: 50px;
+    text-align: center;
+    border-radius: 5px;
+    margin: 6px;
+}
+
+.four{
+      border-bottom: 5px grey;
+    background-color: white;
+    width: 50px;
+    text-align: center;
+    border-radius: 5px;
+    margin: 6px;
+}
+
+.five{
+      border-bottom: 5px grey;
+    background-color: white;
+    width: 50px;
+    text-align: center;
+    border-radius: 5px;
+    margin: 6px;
+}
+
+.six{
+     border-bottom: 5px grey;
+    background-color: white;
+    width: 50px;
+    text-align: center;
+    border-radius: 5px;
+    margin: 6px;
+}
+
+.x{
+    border-bottom: 5px grey;
+    background-color: white;
+    width: 50px;
+    text-align: center;
+    border-radius: 5px; 
+    margin: 6px;
+}
+
+.one{
+ border-bottom: 5px grey;
+    background-color: white;
+    width: 50px;
+    text-align: center;
+    border-radius: 5px; 
+    margin: 6px;
+}
+
+.two{
+    border-bottom: 5px grey;
+    background-color: white;
+    width: 50px;
+    text-align: center;
+    border-radius: 5px; 
+    margin: 6px;
+}
+
+.three{
+  border-bottom: 5px grey;
+    background-color: white;
+    width: 50px;
+    text-align: center;
+    border-radius: 5px; 
+    margin: 6px;  
+}
+
+.minuss{
+    border-bottom: 5px grey;
+    background-color: white;
+    width: 50px;
+    text-align: center;
+    border-radius: 5px;
+    margin: 6px; 
+}
+
+.zero{
+     border-bottom: 5px grey;
+    background-color: white;
+    width: 50px;
+    text-align: center;
+    border-radius: 5px; 
+    margin: 6px;
+}
+
+.fullstop{
+       border-bottom: 5px grey;
+    background-color: white;
+    width: 50px;
+    text-align: center;
+    border-radius: 5px;
+    margin: 6px;
+}
+.plus{
+       border-bottom: 5px grey;
+    background-color: white;
+    width: 50px;
+    text-align: center;
+    border-radius: 5px;
+    margin: 6px;
+}
+
+.equal{
+        border-bottom: 5px grey;
+    background-color: white;
+    width: 50px;
+    text-align: center;
+    border-radius: 5px; 
+    margin: 6px;
+} */
